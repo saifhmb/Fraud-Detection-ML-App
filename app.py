@@ -89,7 +89,7 @@ def main():
       # giving the webpage a title 
     st.title("Fraud Detection ML App") 
     st.header("Model Description", divider = "gray")
-    multi = '''This is a Gaussian Naive Bayes model trained on a synthetic dataset, containining a large variety of transaction types representing normal activities 
+    multi = '''This is a Gaussian Naive Bayes model trained on a synthetic dataset, containing a large variety of transaction types representing normal activities 
     as well as abnormal/fraudulent activities. The model predicts whether a transaction is normal or fraudulent.
     For more details on the model please refer to the model card at https://huggingface.co/saifhmb/fraud-detection-model
     '''
