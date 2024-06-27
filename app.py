@@ -16,7 +16,7 @@ from skops import hub_utils
 import pickle
 #from skops.card import Card, metadata_from_config
 from pathlib import Path
-import streamlit as st 
+import streamlit as st
 from tempfile import mkdtemp, mkstemp
 
 # Loading the dataset
