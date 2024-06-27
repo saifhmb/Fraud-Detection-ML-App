@@ -14,7 +14,7 @@ import imblearn
 from imblearn.under_sampling import RandomUnderSampler
 from skops import hub_utils
 import pickle
-from skops.card import Card, metadata_from_config
+#from skops.card import Card, metadata_from_config
 from pathlib import Path
 from tempfile import mkdtemp, mkstemp
 
