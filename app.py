@@ -97,7 +97,7 @@ def main():
     st.markdown("To determine whether a transaction is normal or fraudulent, please **ENTER** the Sender Country, Beneficiary Country, Amount in USD and Transaction Type :")
     col1, col2 = st.columns(2)
     with col1:
-        Sender_Country = st.text_input("Sender Country")
+      Sender_Country = st.text_input("Sender Country")
     with col2:  
       Bene_Country = st.text_input("Beneficiary Country")
     
