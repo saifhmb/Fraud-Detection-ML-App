@@ -41,6 +41,12 @@ The data preprocessing steps applied include the following:
 |----------|----------|
 | accuracy | 0.794582 |
 
+### Model Explainability
+SHAP was used to determine the important features that helps the model make decisions
+![image](https://github.com/user-attachments/assets/824937c9-9290-40c2-8aba-ac908f5f1028)
+
+
+
 ### Confusion Matrix
 ![image](https://github.com/saifhmb/Fraud-Detection-ML-App/assets/111028776/e03a40b9-0196-4df4-a251-fb1c701c1a56)
 
